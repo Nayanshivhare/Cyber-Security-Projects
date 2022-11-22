@@ -1,8 +1,4 @@
 # Cyber_security_python
-Codes on how to use:-
-
-
-
 
 
 
